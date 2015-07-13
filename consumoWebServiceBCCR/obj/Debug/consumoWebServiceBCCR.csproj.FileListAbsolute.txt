@@ -1,0 +1,9 @@
+D:\visual_studio\laboratorio\WS\BCCR\consumoWebServiceBCCR\consumoWebServiceBCCR\bin\Debug\consumoWebServiceBCCR.exe.config
+D:\visual_studio\laboratorio\WS\BCCR\consumoWebServiceBCCR\consumoWebServiceBCCR\bin\Debug\consumoWebServiceBCCR.exe
+D:\visual_studio\laboratorio\WS\BCCR\consumoWebServiceBCCR\consumoWebServiceBCCR\bin\Debug\consumoWebServiceBCCR.pdb
+D:\visual_studio\laboratorio\WS\BCCR\consumoWebServiceBCCR\consumoWebServiceBCCR\obj\Debug\consumoWebServiceBCCR.csprojResolveAssemblyReference.cache
+D:\visual_studio\laboratorio\WS\BCCR\consumoWebServiceBCCR\consumoWebServiceBCCR\obj\Debug\consumoWebServiceBCCR.exe
+D:\visual_studio\laboratorio\WS\BCCR\consumoWebServiceBCCR\consumoWebServiceBCCR\obj\Debug\consumoWebServiceBCCR.pdb
+D:\git\consumoWebServiceBCCR\consumoWebServiceBCCR\bin\Debug\consumoWebServiceBCCR.exe.config
+D:\git\consumoWebServiceBCCR\consumoWebServiceBCCR\obj\Debug\consumoWebServiceBCCR.exe
+D:\git\consumoWebServiceBCCR\consumoWebServiceBCCR\obj\Debug\consumoWebServiceBCCR.pdb
